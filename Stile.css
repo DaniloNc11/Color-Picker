@@ -7,7 +7,7 @@ body
 
 .Sottotitolo
 {
-
+text-align: center;
 font-style: normal;
 font-weight: 400;
 font-size: 22px;
@@ -21,6 +21,7 @@ color: #FFFFFF;
 .Titolo
 
 {
+    text-align: center;
     padding-top: 300px;
     padding-bottom: 1px;
 font-style: normal;
