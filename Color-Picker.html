@@ -2,10 +2,41 @@
 <head><link rel="stylesheet" href="Stile.css">
 <link href='https://fonts.googleapis.com/css?family=Russo One' rel='stylesheet'>
 </head>
-<body>
     <h1 class="Titolo">PICK A COLOR</h1>
     <h2 class="Sottotitolo">Scegli un colore per cambiare lo sfondo della pagina</h2>
-    <form>
-    </form>
+    <body>
+        <button class="Rosso" onclick="Rosso()"></button>
+        <button class="Ciano" onclick="Ciano()"></button>
+        <button class="Blu" onclick="Blu()"></button>
+        <button class="Verde" onclick="Verde()"></button>
+        <button class="Viola" onclick="Viola()"></button>
+        <button class="Giallo" onclick="Giallo()"></button>
 </body>
+    <script>
+        function Rosso()
+        {
+            document.body.style.backgroundColor="#FF0000";
+        }
+        function Ciano()
+        {
+            document.body.style.backgroundColor="#59BC98";
+        }
+        function Blu()
+        {
+            document.body.style.backgroundColor="#2594D2";
+        }
+        function Verde()
+        {
+            document.body.style.backgroundColor="#72BC59";
+        }
+        function Viola()
+        {
+            document.body.style.backgroundColor="#BC59A0";
+        }
+        function Giallo()
+        {
+            document.body.style.backgroundColor="#DCF63C";
+        }
+
+    </script>
 </html>
