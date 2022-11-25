@@ -7,12 +7,8 @@ body
 
 .Sottotitolo
 {
-position: absolute;
-width: 622px;
-height: 27px;
-left: 409px;
-top: 512px;
-
+    padding-top: 300px;
+    padding-bottom: 1px;
 font-style: normal;
 font-weight: 400;
 font-size: 22px;
@@ -26,12 +22,8 @@ color: #FFFFFF;
 .Titolo
 
 {
-position: absolute;
-width: 584px;
-height: 94px;
-left: 428px;
-top: 393px;
-
+    padding-top: 300px;
+    padding-bottom: 1px;
 font-style: normal;
 font-weight: 400;
 font-size: 78px;
@@ -41,3 +33,4 @@ letter-spacing: 0.03em;
 
 color: #FFFFFF;
 }
+
