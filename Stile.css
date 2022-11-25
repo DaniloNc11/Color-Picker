@@ -34,3 +34,40 @@ letter-spacing: 0.03em;
 color: #FFFFFF;
 }
 
+.Rosso
+{
+    background: #FE0202;
+    border-radius: 10px;
+}
+
+.Ciano
+{
+
+    background: #59BC98;
+    border-radius: 10px;
+}
+
+.Blu
+{
+    background: #2594D2;
+    border-radius: 10px;
+}
+
+.Verde
+{
+
+    background: #72BC59;
+    border-radius: 10px;
+}
+
+.Viola
+{
+    background: #BC59A0;
+    border-radius: 10px;
+}
+
+.Giallo
+{
+    background: #DCF73C;
+    border-radius: 10px;
+}
